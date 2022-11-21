@@ -1,0 +1,22 @@
+<p>&nbsp;</p>
+<!-- BEGINS: AUTO-GENERATED MUSES RADIO PLAYER CODE -->
+<p>
+<script type="text/javascript" src="https://hosted.muses.org/mrp.js"></script>
+<script type="text/javascript">// <![CDATA[
+MRP.insert({
+'url':'https://servidor13.brlogic.com:7322/live?identifier=negatomusic&source=15039',
+'codec':'mp3',
+'volume':65,
+'autoplay':true,
+'buffering':5,
+'title':'Radio extension',
+'welcome':'WELCOME TO...',
+'bgcolor':'#FFFFFF',
+'skin':'longtail',
+'width':498,
+'height':61
+});
+// ]]></script>
+</p>
+<!-- ENDS: AUTO-GENERATED MUSES RADIO PLAYER CODE -->
+<p>&nbsp;</p>
